@@ -1,8 +1,9 @@
 # RZ09
 Pioneer AVIC-RZ09 (for Japanese domestic market) translation
 
-This project can be used for translation of the similar Pioneer AVIC devices (AVIC-RL09, AVIC-RW09, AVIC-RZ09, AVIC-RZ07, AVIC-RZ06, AVIC-RL05, AVIC-RZ05, AVIC-RW03, AVIC-RZ03)
-And also probably can be used for other line up Pioneer AVIC devices (AVIC-RL99, AVIC-RW99, AVIC-RZ99, AVIC-RZ77, AVIC-RZ66, AVIC-RZ55, AVIC-RW33, AVIC-RZ33, AVIC-RZ22)
+This project can be used for translation of the similar Pioneer AVIC devices (AVIC-RL09, AVIC-RW09, AVIC-RZ09, AVIC-RZ07, AVIC-RZ06, AVIC-RL05, AVIC-RZ05, AVIC-RW03, AVIC-RZ03).
+
+And also probably can be used for other line up Pioneer AVIC devices (AVIC-RL99, AVIC-RW99, AVIC-RZ99, AVIC-RZ77, AVIC-RZ66, AVIC-RZ55, AVIC-RW33, AVIC-RZ33, AVIC-RZ22).
 
 Thanks to @dzo for ideas and some start-up sources
 
